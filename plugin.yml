@@ -1,7 +1,7 @@
 name: RPE_Spleef
 version: 1.0.0
 api: 1.8.0
-main: Jaydenb132\Spleef
+main: RPE\Spleef
 author: Jaydenb132
 description: The RektPE Spleef Plugin
 commands:
