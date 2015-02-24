@@ -16,12 +16,15 @@ permissions:
       s.join:
         description: "Join The Spleef Arena"
         default: true
+      s.help:
+        description: "Commands For RPE SPleef"
+        default: true
       s.leave:
         description: "Leave The Spleef Arena"
         default: true
-      s.stop
+      s.stop:
         description: "Stop The Spleef Game"
         default: false
-      s.kick
+      s.kick:
         description: "Kicks A Player From The Arena"
         default: false
