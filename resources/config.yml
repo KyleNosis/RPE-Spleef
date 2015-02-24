@@ -1,1 +1,35 @@
-Later
+-----------------------------
+//RPE Spleef Plugin Config  |
+-----------------------------
+//Authors:                  |
+//Jaydenb132                |
+//KyleTheHack3r             |
+-----------------------------
+
+-----------------------------
+//TIP:                      |
+//Import The Pre-Made Spleef|
+//World ANd Lobby That IS   |
+//In the resources folder!  |
+-----------------------------
+
+-----------------------------
+//Settings:                 |
+-----------------------------
+//Enable Messages?(yes/no)  |
+enable-messages: yes        |
+-----------------------------
+-----------------------------
+//Messages:                 |
+-----------------------------
+//Spleef Arena Join Msgg    |
+arena-join: "RPE] Joining Spleef Arena..."
+
+//Spleef Arena Full Msg     |
+arena-full: "RPE] The Spleef Arena Is Full"
+
+//Spleef Arena Kicked Msg   |
+arena-kicked: "RPE] You Have Been Kicked From The Arena"
+
+//Spleef Arena Stopped      |
+arena-stop: "RPE] The Spleef ame Has Been Stopped"
