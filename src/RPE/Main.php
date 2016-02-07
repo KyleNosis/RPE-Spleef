@@ -13,7 +13,7 @@ use pocketmine\event\Listener;
 class Main extends PluginBase implements Listener{
     	public function onEnable() {
       	$this->getServer()->getPluginManager()->registerEvents($this, $this);
-      	$this->getLogger()->info(TEXTFORMAT::BLUE . "RPE-Spleef] " . TEXTFORMAT::GREEN . "I'm Enabled!");
+      	$this->getLogger()->info(TEXTFORMAT::BLUE . "RPE-Spleef] " . TEXTFORMAT::GREEN . "Enabled successfully.");
     }
     public function onCommand(CommandSender $sender, Command $command, $label, array $args) {
 		  if($sender instanceof Player) {
